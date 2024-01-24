@@ -3,7 +3,7 @@
 ![1_uUFFjzaVmE_1RrfcVbx2QQ](https://github.com/hrishi-008/Chat-Gemini/assets/97169623/3b30526a-ca1a-4355-bef3-864f07671f54)
 
 
-[Chat-Gemini](https://chat-gemini-pro.streamlit.app/) is a chatbot made using Google's Gemini. Gemini is a large language model that can be used for a variety of tasks, including text generation, translation, and question answering.
+[Chat-Gemini](https://chat-gemini-pro.streamlit.app/) _**(click to view live project)**_ is a chatbot made using Google's Gemini. Gemini is a large language model that can be used for a variety of tasks, including text generation, translation, and question answering.
 
 ## Clone the repository:
 
