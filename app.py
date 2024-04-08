@@ -27,7 +27,7 @@ add_auth(required=True)
 #st.write("Congratulations! You're all set and subscribed!")
 #st.write(f"By the way, your email is: {st.session_state.email}")
 
-GOOGLE_API_KEY= st.secrets['GOOGLE_API_KEY']
+GOOGLE_API_KEY= os.environ['GOOGLE_API_KEY']
 
 genai.configure(api_key=GOOGLE_API_KEY)
 
